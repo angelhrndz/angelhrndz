@@ -1,5 +1,7 @@
 ## Helou 👋
 
+![idkcat](https://github.com/user-attachments/assets/4e4c7983-fc50-45b3-a4fc-86c8d1341c61)
+
 <!--
 **angelhrndz/angelhrndz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
